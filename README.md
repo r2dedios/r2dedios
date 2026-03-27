@@ -1,54 +1,56 @@
-# Hey there! 👋 I'm Alejandro Villegas
+# Alejandro Villegas
 
-**Cloud Native Engineer @ Red Hat | Kubernetes & OpenShift Specialist | Madrid 🇪🇸**
+**Principal Software Engineer @ Red Hat | Cloud-Native Infrastructure & Kubernetes Specialist**
 
-## 🚀 About Me
+## Professional Summary
 
-I'm a passionate infrastructure engineer focused on building robust, scalable cloud-native solutions. At Red Hat, I work with cutting-edge technologies to solve complex distributed systems challenges.
+Senior software engineer with extensive experience in distributed systems, cloud-native infrastructure, and container orchestration platforms. Currently focused on building robust solutions for Kubernetes and OpenShift ecosystems at Red Hat, with expertise in automation, infrastructure tooling, and AI-driven operations.
 
-- 🔧 Building tools and automation for Kubernetes/OpenShift ecosystems
-- 🌱 Exploring AI/ML integrations with cloud infrastructure (MCP servers, agentic systems)
-- 💡 Contributing to open-source projects that make DevOps easier
-- 📍 Based in Madrid, Spain
+### Technical Expertise
 
-## 🛠️ Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)
 
-**Infrastructure & Orchestration**
-```
-Kubernetes | OpenShift | Docker | Ansible | Mesos
-```
+## Career Highlights
 
-**Languages**
-```
-Go | Python | TypeScript | Shell | Java
-```
+**Principal Software Engineer** @ Red Hat
+Architecting and developing infrastructure solutions for enterprise Kubernetes and OpenShift platforms. Leading initiatives in cloud-native automation, AI-assisted operations, and distributed systems optimization.
 
-**Cloud & DevOps**
-```
-Multi-cloud GitOps | CI/CD | Infrastructure as Code | Container Technologies
-```
+**Core Focus Areas:**
+- Kubernetes and OpenShift platform engineering
+- Cloud-native tooling and automation
+- AI/ML integration with infrastructure (Model Context Protocol servers, agentic systems)
+- Distributed systems architecture and optimization
 
-## 🔥 Featured Projects
+## Featured Projects
 
-🎯 **[kubernetes-mcp-server](https://github.com/r2dedios/kubernetes-mcp-server)** - Model Context Protocol server for K8s/OpenShift
-🎯 **[cluster-iq](https://github.com/r2dedios/cluster-iq)** - Backend for intelligent cluster management
-🎯 **[container-toolbox](https://github.com/r2dedios/container-toolbox)** - Debugging utilities for containerized environments
-🎯 **[multicloud-gitops](https://github.com/r2dedios/multicloud-gitops)** - Multi-cloud deployment patterns
+**[kubernetes-mcp-server](https://github.com/r2dedios/kubernetes-mcp-server)**
+Model Context Protocol server enabling AI-assisted interactions with Kubernetes and OpenShift clusters. Bridges the gap between language models and cluster operations.
 
-## 📊 GitHub Stats
+**[cluster-iq](https://github.com/r2dedios/cluster-iq)**
+Intelligent backend system for Kubernetes cluster management and analytics. Built with Go for high-performance cluster operations and insights.
 
-![r2dedios's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2dedios&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+**[agentic-collections](https://github.com/r2dedios/agentic-collections)**
+Red Hat Ecosystem Engineering initiative exploring agentic AI patterns for infrastructure automation and operational intelligence.
 
-## 🏆 Achievements
+## GitHub Activity
 
-![](https://github-profile-trophy.vercel.app/?username=r2dedios&theme=darkhub&no-frame=true&row=1&column=6)
+![r2dedios's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2dedios&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=false)
 
-## 💬 Let's Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2dedios&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-- 💼 Currently working on cloud-native infrastructure at **Red Hat**
-- 🤝 Open to collaborate on Kubernetes, OpenShift, and cloud automation projects
-- 📫 Reach me through GitHub issues or discussions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r2dedios&theme=dark&hide_border=true&background=0d1117)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-villegas-l%C3%B3pez-5660a6102/)
+
+Based in Madrid, Spain 🇪🇸
 
 ---
 
-*"Building reliable infrastructure, one commit at a time"* ⚡
+*Open to collaborations on cloud-native infrastructure, Kubernetes, OpenShift, and distributed systems projects.*
