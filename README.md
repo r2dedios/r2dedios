@@ -26,24 +26,13 @@ Architecting and developing infrastructure solutions for enterprise Kubernetes a
 - AI/ML integration with infrastructure (Model Context Protocol servers, agentic systems)
 - Distributed systems architecture and optimization
 
-## Featured Projects
-
-**[kubernetes-mcp-server](https://github.com/r2dedios/kubernetes-mcp-server)**
-Model Context Protocol server enabling AI-assisted interactions with Kubernetes and OpenShift clusters. Bridges the gap between language models and cluster operations.
-
-**[cluster-iq](https://github.com/r2dedios/cluster-iq)**
-Intelligent backend system for Kubernetes cluster management and analytics. Built with Go for high-performance cluster operations and insights.
-
-**[agentic-collections](https://github.com/r2dedios/agentic-collections)**
-Red Hat Ecosystem Engineering initiative exploring agentic AI patterns for infrastructure automation and operational intelligence.
-
 ## GitHub Activity
 
-![r2dedios's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2dedios&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=false)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r2dedios&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/r2dedios)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2dedios&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2dedios&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/r2dedios)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r2dedios&theme=dark&hide_border=true&background=0d1117)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r2dedios&theme=tokyonight&hide_border=true)](https://github.com/r2dedios)
 
 ## Connect
 
