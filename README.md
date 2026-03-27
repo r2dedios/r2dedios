@@ -28,11 +28,17 @@ Architecting and developing infrastructure solutions for enterprise Kubernetes a
 
 ## GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r2dedios&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/r2dedios)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r2dedios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2dedios&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/r2dedios)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2dedios&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r2dedios&theme=tokyonight&hide_border=true)](https://github.com/r2dedios)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r2dedios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## Connect
 
